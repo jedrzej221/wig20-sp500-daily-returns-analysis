@@ -3,8 +3,6 @@ import yfinance as yf
 import matplotlib.pyplot as plt
 from datetime import datetime, timedelta
 import os
-import numpy as np
-import pandas as pd
 
 # Set the start date to January 1, 2010
 start_date = "2010-01-01"
